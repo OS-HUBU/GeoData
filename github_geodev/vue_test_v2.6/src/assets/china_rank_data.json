@@ -1,0 +1,1845 @@
+[
+  {
+    "year": "2012",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 1489
+      },
+      {
+        "name": "Shang Hai",
+        "value": 1020
+      },
+      {
+        "name": "Guangdong",
+        "value": 657
+      },
+      {
+        "name": "Zhejiang",
+        "value": 483
+      },
+      {
+        "name": "Jiangsu",
+        "value": 191
+      },
+      {
+        "name": "Sichuan",
+        "value": 161
+      },
+      {
+        "name": "Hubei",
+        "value": 72
+      },
+      {
+        "name": "Fujian",
+        "value": 62
+      },
+      {
+        "name": "Shaanxi",
+        "value": 58
+      },
+      {
+        "name": "Shandong",
+        "value": 55
+      },
+      {
+        "name": "Hunan",
+        "value": 44
+      },
+      {
+        "name": "Liaoning",
+        "value": 39
+      },
+      {
+        "name": "Chongqing",
+        "value": 35
+      },
+      {
+        "name": "Tianjin",
+        "value": 27
+      },
+      {
+        "name": "Anhui",
+        "value": 23
+      },
+      {
+        "name": "Henan",
+        "value": 22
+      },
+      {
+        "name": "Taiwan",
+        "value": 19
+      },
+      {
+        "name": "Yunnan",
+        "value": 11
+      },
+      {
+        "name": "Hebei",
+        "value": 11
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 11
+      },
+      {
+        "name": "Guangxi",
+        "value": 10
+      },
+      {
+        "name": "Jiangxi",
+        "value": 7
+      },
+      {
+        "name": "Shanxi",
+        "value": 6
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 5
+      },
+      {
+        "name": "Hainan",
+        "value": 4
+      },
+      {
+        "name": "Guizhou",
+        "value": 4
+      },
+      {
+        "name": "Xinjiang",
+        "value": 3
+      },
+      {
+        "name": "Tibet",
+        "value": 2
+      },
+      {
+        "name": "Ningxia",
+        "value": 1
+      },
+      {
+        "name": "Jilin",
+        "value": 1
+      },
+      {
+        "name": "Qinghai",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "year": "2011",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 699
+      },
+      {
+        "name": "Shang Hai",
+        "value": 474
+      },
+      {
+        "name": "Guangdong",
+        "value": 282
+      },
+      {
+        "name": "Zhejiang",
+        "value": 206
+      },
+      {
+        "name": "Jiangsu",
+        "value": 76
+      },
+      {
+        "name": "Sichuan",
+        "value": 61
+      },
+      {
+        "name": "Hubei",
+        "value": 33
+      },
+      {
+        "name": "Shaanxi",
+        "value": 29
+      },
+      {
+        "name": "Shandong",
+        "value": 27
+      },
+      {
+        "name": "Fujian",
+        "value": 24
+      },
+      {
+        "name": "Hunan",
+        "value": 22
+      },
+      {
+        "name": "Liaoning",
+        "value": 21
+      },
+      {
+        "name": "Chongqing",
+        "value": 17
+      },
+      {
+        "name": "Tianjin",
+        "value": 15
+      },
+      {
+        "name": "Anhui",
+        "value": 9
+      },
+      {
+        "name": "Taiwan",
+        "value": 9
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 8
+      },
+      {
+        "name": "Yunnan",
+        "value": 7
+      },
+      {
+        "name": "Hebei",
+        "value": 6
+      },
+      {
+        "name": "Shanxi",
+        "value": 4
+      },
+      {
+        "name": "Henan",
+        "value": 4
+      },
+      {
+        "name": "Guangxi",
+        "value": 4
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 3
+      },
+      {
+        "name": "Hainan",
+        "value": 2
+      },
+      {
+        "name": "Guizhou",
+        "value": 2
+      },
+      {
+        "name": "Jiangxi",
+        "value": 2
+      },
+      {
+        "name": "Xinjiang",
+        "value": 1
+      },
+      {
+        "name": "Qinghai",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "year": "2022",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 9487
+      },
+      {
+        "name": "Shang Hai",
+        "value": 6865
+      },
+      {
+        "name": "Guangdong",
+        "value": 5916
+      },
+      {
+        "name": "Zhejiang",
+        "value": 3610
+      },
+      {
+        "name": "Jiangsu",
+        "value": 1974
+      },
+      {
+        "name": "Sichuan",
+        "value": 1788
+      },
+      {
+        "name": "Hubei",
+        "value": 1077
+      },
+      {
+        "name": "Shaanxi",
+        "value": 691
+      },
+      {
+        "name": "Fujian",
+        "value": 565
+      },
+      {
+        "name": "Shandong",
+        "value": 489
+      },
+      {
+        "name": "Hunan",
+        "value": 448
+      },
+      {
+        "name": "Chongqing",
+        "value": 446
+      },
+      {
+        "name": "Liaoning",
+        "value": 386
+      },
+      {
+        "name": "Anhui",
+        "value": 350
+      },
+      {
+        "name": "Tianjin",
+        "value": 316
+      },
+      {
+        "name": "Henan",
+        "value": 262
+      },
+      {
+        "name": "Taiwan",
+        "value": 206
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 136
+      },
+      {
+        "name": "Jiangxi",
+        "value": 128
+      },
+      {
+        "name": "Hebei",
+        "value": 120
+      },
+      {
+        "name": "Yunnan",
+        "value": 103
+      },
+      {
+        "name": "Guangxi",
+        "value": 85
+      },
+      {
+        "name": "Jilin",
+        "value": 78
+      },
+      {
+        "name": "Shanxi",
+        "value": 73
+      },
+      {
+        "name": "Guizhou",
+        "value": 55
+      },
+      {
+        "name": "甘肃省",
+        "value": 36
+      },
+      {
+        "name": "Hainan",
+        "value": 34
+      },
+      {
+        "name": "Xinjiang",
+        "value": 27
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 24
+      },
+      {
+        "name": "Qinghai",
+        "value": 8
+      },
+      {
+        "name": "Tibet",
+        "value": 6
+      },
+      {
+        "name": "Ningxia",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "year": "2010",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 269
+      },
+      {
+        "name": "Shang Hai",
+        "value": 206
+      },
+      {
+        "name": "Guangdong",
+        "value": 102
+      },
+      {
+        "name": "Zhejiang",
+        "value": 69
+      },
+      {
+        "name": "Jiangsu",
+        "value": 27
+      },
+      {
+        "name": "Sichuan",
+        "value": 26
+      },
+      {
+        "name": "Shandong",
+        "value": 17
+      },
+      {
+        "name": "Shaanxi",
+        "value": 15
+      },
+      {
+        "name": "Hubei",
+        "value": 14
+      },
+      {
+        "name": "Hunan",
+        "value": 11
+      },
+      {
+        "name": "Liaoning",
+        "value": 9
+      },
+      {
+        "name": "Tianjin",
+        "value": 7
+      },
+      {
+        "name": "Fujian",
+        "value": 6
+      },
+      {
+        "name": "Yunnan",
+        "value": 5
+      },
+      {
+        "name": "Chongqing",
+        "value": 5
+      },
+      {
+        "name": "Anhui",
+        "value": 4
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 3
+      },
+      {
+        "name": "Henan",
+        "value": 3
+      },
+      {
+        "name": "Hainan",
+        "value": 2
+      },
+      {
+        "name": "Hebei",
+        "value": 2
+      },
+      {
+        "name": "Shanxi",
+        "value": 2
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 2
+      },
+      {
+        "name": "Xinjiang",
+        "value": 1
+      },
+      {
+        "name": "Guizhou",
+        "value": 1
+      },
+      {
+        "name": "Jiangxi",
+        "value": 1
+      },
+      {
+        "name": "Taiwan",
+        "value": 1
+      },
+      {
+        "name": "Guangxi",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "year": "2021",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 9416
+      },
+      {
+        "name": "Shang Hai",
+        "value": 6794
+      },
+      {
+        "name": "Guangdong",
+        "value": 5864
+      },
+      {
+        "name": "Zhejiang",
+        "value": 3581
+      },
+      {
+        "name": "Jiangsu",
+        "value": 1935
+      },
+      {
+        "name": "Sichuan",
+        "value": 1755
+      },
+      {
+        "name": "Hubei",
+        "value": 1061
+      },
+      {
+        "name": "Shaanxi",
+        "value": 688
+      },
+      {
+        "name": "Fujian",
+        "value": 554
+      },
+      {
+        "name": "Shandong",
+        "value": 469
+      },
+      {
+        "name": "Chongqing",
+        "value": 436
+      },
+      {
+        "name": "Hunan",
+        "value": 432
+      },
+      {
+        "name": "Liaoning",
+        "value": 374
+      },
+      {
+        "name": "Anhui",
+        "value": 340
+      },
+      {
+        "name": "Tianjin",
+        "value": 312
+      },
+      {
+        "name": "Henan",
+        "value": 252
+      },
+      {
+        "name": "Taiwan",
+        "value": 202
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 132
+      },
+      {
+        "name": "Jiangxi",
+        "value": 122
+      },
+      {
+        "name": "Hebei",
+        "value": 118
+      },
+      {
+        "name": "Yunnan",
+        "value": 102
+      },
+      {
+        "name": "Guangxi",
+        "value": 83
+      },
+      {
+        "name": "Jilin",
+        "value": 78
+      },
+      {
+        "name": "Shanxi",
+        "value": 72
+      },
+      {
+        "name": "Guizhou",
+        "value": 54
+      },
+      {
+        "name": "甘肃省",
+        "value": 33
+      },
+      {
+        "name": "Hainan",
+        "value": 33
+      },
+      {
+        "name": "Xinjiang",
+        "value": 26
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 23
+      },
+      {
+        "name": "Qinghai",
+        "value": 8
+      },
+      {
+        "name": "Tibet",
+        "value": 6
+      },
+      {
+        "name": "Ningxia",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "year": "2020",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 9269
+      },
+      {
+        "name": "Shang Hai",
+        "value": 6658
+      },
+      {
+        "name": "Guangdong",
+        "value": 5742
+      },
+      {
+        "name": "Zhejiang",
+        "value": 3512
+      },
+      {
+        "name": "Jiangsu",
+        "value": 1876
+      },
+      {
+        "name": "Sichuan",
+        "value": 1718
+      },
+      {
+        "name": "Hubei",
+        "value": 1012
+      },
+      {
+        "name": "Shaanxi",
+        "value": 670
+      },
+      {
+        "name": "Fujian",
+        "value": 539
+      },
+      {
+        "name": "Shandong",
+        "value": 445
+      },
+      {
+        "name": "Chongqing",
+        "value": 423
+      },
+      {
+        "name": "Hunan",
+        "value": 416
+      },
+      {
+        "name": "Liaoning",
+        "value": 354
+      },
+      {
+        "name": "Anhui",
+        "value": 322
+      },
+      {
+        "name": "Tianjin",
+        "value": 299
+      },
+      {
+        "name": "Henan",
+        "value": 243
+      },
+      {
+        "name": "Taiwan",
+        "value": 192
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 120
+      },
+      {
+        "name": "Jiangxi",
+        "value": 114
+      },
+      {
+        "name": "Hebei",
+        "value": 113
+      },
+      {
+        "name": "Yunnan",
+        "value": 94
+      },
+      {
+        "name": "Guangxi",
+        "value": 78
+      },
+      {
+        "name": "Jilin",
+        "value": 77
+      },
+      {
+        "name": "Shanxi",
+        "value": 67
+      },
+      {
+        "name": "Guizhou",
+        "value": 52
+      },
+      {
+        "name": "Hainan",
+        "value": 31
+      },
+      {
+        "name": "甘肃省",
+        "value": 30
+      },
+      {
+        "name": "Xinjiang",
+        "value": 21
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 20
+      },
+      {
+        "name": "Qinghai",
+        "value": 7
+      },
+      {
+        "name": "Tibet",
+        "value": 5
+      },
+      {
+        "name": "Ningxia",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "year": "2009",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 91
+      },
+      {
+        "name": "Shang Hai",
+        "value": 86
+      },
+      {
+        "name": "Guangdong",
+        "value": 34
+      },
+      {
+        "name": "Zhejiang",
+        "value": 19
+      },
+      {
+        "name": "Jiangsu",
+        "value": 12
+      },
+      {
+        "name": "Shaanxi",
+        "value": 7
+      },
+      {
+        "name": "Shandong",
+        "value": 6
+      },
+      {
+        "name": "Sichuan",
+        "value": 5
+      },
+      {
+        "name": "Hubei",
+        "value": 5
+      },
+      {
+        "name": "Liaoning",
+        "value": 4
+      },
+      {
+        "name": "Fujian",
+        "value": 3
+      },
+      {
+        "name": "Hunan",
+        "value": 3
+      },
+      {
+        "name": "Chongqing",
+        "value": 2
+      },
+      {
+        "name": "Hebei",
+        "value": 1
+      },
+      {
+        "name": "Yunnan",
+        "value": 1
+      },
+      {
+        "name": "Jiangxi",
+        "value": 1
+      },
+      {
+        "name": "Tianjin",
+        "value": 1
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 1
+      },
+      {
+        "name": "Guizhou",
+        "value": 1
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 1
+      },
+      {
+        "name": "Anhui",
+        "value": 1
+      },
+      {
+        "name": "Guangxi",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "year": "2008",
+    "data": [
+      {
+        "name": "Shang Hai",
+        "value": 23
+      },
+      {
+        "name": "Beijing",
+        "value": 22
+      },
+      {
+        "name": "Guangdong",
+        "value": 9
+      },
+      {
+        "name": "Jiangsu",
+        "value": 5
+      },
+      {
+        "name": "Zhejiang",
+        "value": 5
+      },
+      {
+        "name": "Shandong",
+        "value": 2
+      },
+      {
+        "name": "Hubei",
+        "value": 2
+      },
+      {
+        "name": "Shaanxi",
+        "value": 2
+      },
+      {
+        "name": "Sichuan",
+        "value": 1
+      },
+      {
+        "name": "Fujian",
+        "value": 1
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 1
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 1
+      },
+      {
+        "name": "Guangxi",
+        "value": 1
+      },
+      {
+        "name": "Hunan",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "year": "2019",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 8994
+      },
+      {
+        "name": "Shang Hai",
+        "value": 6448
+      },
+      {
+        "name": "Guangdong",
+        "value": 5558
+      },
+      {
+        "name": "Zhejiang",
+        "value": 3397
+      },
+      {
+        "name": "Jiangsu",
+        "value": 1759
+      },
+      {
+        "name": "Sichuan",
+        "value": 1631
+      },
+      {
+        "name": "Hubei",
+        "value": 944
+      },
+      {
+        "name": "Shaanxi",
+        "value": 638
+      },
+      {
+        "name": "Fujian",
+        "value": 509
+      },
+      {
+        "name": "Shandong",
+        "value": 415
+      },
+      {
+        "name": "Chongqing",
+        "value": 393
+      },
+      {
+        "name": "Hunan",
+        "value": 390
+      },
+      {
+        "name": "Liaoning",
+        "value": 337
+      },
+      {
+        "name": "Anhui",
+        "value": 294
+      },
+      {
+        "name": "Tianjin",
+        "value": 275
+      },
+      {
+        "name": "Henan",
+        "value": 226
+      },
+      {
+        "name": "Taiwan",
+        "value": 178
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 104
+      },
+      {
+        "name": "Hebei",
+        "value": 103
+      },
+      {
+        "name": "Jiangxi",
+        "value": 95
+      },
+      {
+        "name": "Yunnan",
+        "value": 90
+      },
+      {
+        "name": "Jilin",
+        "value": 71
+      },
+      {
+        "name": "Guangxi",
+        "value": 70
+      },
+      {
+        "name": "Shanxi",
+        "value": 60
+      },
+      {
+        "name": "Guizhou",
+        "value": 48
+      },
+      {
+        "name": "Hainan",
+        "value": 30
+      },
+      {
+        "name": "甘肃省",
+        "value": 29
+      },
+      {
+        "name": "Xinjiang",
+        "value": 19
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 17
+      },
+      {
+        "name": "Qinghai",
+        "value": 6
+      },
+      {
+        "name": "Tibet",
+        "value": 5
+      },
+      {
+        "name": "Ningxia",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "year": "2018",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 8531
+      },
+      {
+        "name": "Shang Hai",
+        "value": 6018
+      },
+      {
+        "name": "Guangdong",
+        "value": 5174
+      },
+      {
+        "name": "Zhejiang",
+        "value": 3192
+      },
+      {
+        "name": "Jiangsu",
+        "value": 1592
+      },
+      {
+        "name": "Sichuan",
+        "value": 1502
+      },
+      {
+        "name": "Hubei",
+        "value": 839
+      },
+      {
+        "name": "Shaanxi",
+        "value": 560
+      },
+      {
+        "name": "Fujian",
+        "value": 462
+      },
+      {
+        "name": "Shandong",
+        "value": 363
+      },
+      {
+        "name": "Chongqing",
+        "value": 351
+      },
+      {
+        "name": "Hunan",
+        "value": 339
+      },
+      {
+        "name": "Liaoning",
+        "value": 311
+      },
+      {
+        "name": "Anhui",
+        "value": 272
+      },
+      {
+        "name": "Tianjin",
+        "value": 239
+      },
+      {
+        "name": "Henan",
+        "value": 208
+      },
+      {
+        "name": "Taiwan",
+        "value": 161
+      },
+      {
+        "name": "Hebei",
+        "value": 90
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 87
+      },
+      {
+        "name": "Yunnan",
+        "value": 81
+      },
+      {
+        "name": "Jiangxi",
+        "value": 71
+      },
+      {
+        "name": "Guangxi",
+        "value": 63
+      },
+      {
+        "name": "Jilin",
+        "value": 59
+      },
+      {
+        "name": "Shanxi",
+        "value": 51
+      },
+      {
+        "name": "Guizhou",
+        "value": 42
+      },
+      {
+        "name": "Hainan",
+        "value": 27
+      },
+      {
+        "name": "甘肃省",
+        "value": 26
+      },
+      {
+        "name": "Xinjiang",
+        "value": 17
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 14
+      },
+      {
+        "name": "Qinghai",
+        "value": 5
+      },
+      {
+        "name": "Tibet",
+        "value": 5
+      },
+      {
+        "name": "Ningxia",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "year": "2017",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 7899
+      },
+      {
+        "name": "Shang Hai",
+        "value": 5514
+      },
+      {
+        "name": "Guangdong",
+        "value": 4620
+      },
+      {
+        "name": "Zhejiang",
+        "value": 2933
+      },
+      {
+        "name": "Jiangsu",
+        "value": 1398
+      },
+      {
+        "name": "Sichuan",
+        "value": 1343
+      },
+      {
+        "name": "Hubei",
+        "value": 710
+      },
+      {
+        "name": "Shaanxi",
+        "value": 480
+      },
+      {
+        "name": "Fujian",
+        "value": 412
+      },
+      {
+        "name": "Shandong",
+        "value": 312
+      },
+      {
+        "name": "Chongqing",
+        "value": 308
+      },
+      {
+        "name": "Hunan",
+        "value": 281
+      },
+      {
+        "name": "Liaoning",
+        "value": 273
+      },
+      {
+        "name": "Anhui",
+        "value": 233
+      },
+      {
+        "name": "Tianjin",
+        "value": 204
+      },
+      {
+        "name": "Henan",
+        "value": 172
+      },
+      {
+        "name": "Taiwan",
+        "value": 139
+      },
+      {
+        "name": "Hebei",
+        "value": 77
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 70
+      },
+      {
+        "name": "Yunnan",
+        "value": 69
+      },
+      {
+        "name": "Jiangxi",
+        "value": 62
+      },
+      {
+        "name": "Guangxi",
+        "value": 55
+      },
+      {
+        "name": "Jilin",
+        "value": 46
+      },
+      {
+        "name": "Shanxi",
+        "value": 41
+      },
+      {
+        "name": "Guizhou",
+        "value": 34
+      },
+      {
+        "name": "Hainan",
+        "value": 25
+      },
+      {
+        "name": "甘肃省",
+        "value": 23
+      },
+      {
+        "name": "Xinjiang",
+        "value": 16
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 11
+      },
+      {
+        "name": "Tibet",
+        "value": 5
+      },
+      {
+        "name": "Ningxia",
+        "value": 4
+      },
+      {
+        "name": "Qinghai",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "year": "2016",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 6910
+      },
+      {
+        "name": "Shang Hai",
+        "value": 4735
+      },
+      {
+        "name": "Guangdong",
+        "value": 3903
+      },
+      {
+        "name": "Zhejiang",
+        "value": 2491
+      },
+      {
+        "name": "Jiangsu",
+        "value": 1144
+      },
+      {
+        "name": "Sichuan",
+        "value": 1090
+      },
+      {
+        "name": "Hubei",
+        "value": 573
+      },
+      {
+        "name": "Shaanxi",
+        "value": 393
+      },
+      {
+        "name": "Fujian",
+        "value": 347
+      },
+      {
+        "name": "Shandong",
+        "value": 264
+      },
+      {
+        "name": "Chongqing",
+        "value": 247
+      },
+      {
+        "name": "Hunan",
+        "value": 226
+      },
+      {
+        "name": "Liaoning",
+        "value": 216
+      },
+      {
+        "name": "Anhui",
+        "value": 179
+      },
+      {
+        "name": "Tianjin",
+        "value": 154
+      },
+      {
+        "name": "Henan",
+        "value": 128
+      },
+      {
+        "name": "Taiwan",
+        "value": 118
+      },
+      {
+        "name": "Yunnan",
+        "value": 55
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 55
+      },
+      {
+        "name": "Guangxi",
+        "value": 50
+      },
+      {
+        "name": "Hebei",
+        "value": 48
+      },
+      {
+        "name": "Jiangxi",
+        "value": 45
+      },
+      {
+        "name": "Jilin",
+        "value": 32
+      },
+      {
+        "name": "Shanxi",
+        "value": 32
+      },
+      {
+        "name": "Guizhou",
+        "value": 23
+      },
+      {
+        "name": "甘肃省",
+        "value": 18
+      },
+      {
+        "name": "Hainan",
+        "value": 18
+      },
+      {
+        "name": "Xinjiang",
+        "value": 15
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 10
+      },
+      {
+        "name": "Tibet",
+        "value": 5
+      },
+      {
+        "name": "Qinghai",
+        "value": 4
+      },
+      {
+        "name": "Ningxia",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "year": "2015",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 5468
+      },
+      {
+        "name": "Shang Hai",
+        "value": 3715
+      },
+      {
+        "name": "Guangdong",
+        "value": 2908
+      },
+      {
+        "name": "Zhejiang",
+        "value": 1889
+      },
+      {
+        "name": "Jiangsu",
+        "value": 844
+      },
+      {
+        "name": "Sichuan",
+        "value": 793
+      },
+      {
+        "name": "Hubei",
+        "value": 377
+      },
+      {
+        "name": "Shaanxi",
+        "value": 274
+      },
+      {
+        "name": "Fujian",
+        "value": 265
+      },
+      {
+        "name": "Shandong",
+        "value": 196
+      },
+      {
+        "name": "Chongqing",
+        "value": 169
+      },
+      {
+        "name": "Hunan",
+        "value": 166
+      },
+      {
+        "name": "Liaoning",
+        "value": 153
+      },
+      {
+        "name": "Anhui",
+        "value": 132
+      },
+      {
+        "name": "Tianjin",
+        "value": 111
+      },
+      {
+        "name": "Henan",
+        "value": 92
+      },
+      {
+        "name": "Taiwan",
+        "value": 89
+      },
+      {
+        "name": "Yunnan",
+        "value": 40
+      },
+      {
+        "name": "Hebei",
+        "value": 36
+      },
+      {
+        "name": "Guangxi",
+        "value": 36
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 35
+      },
+      {
+        "name": "Jiangxi",
+        "value": 27
+      },
+      {
+        "name": "Shanxi",
+        "value": 21
+      },
+      {
+        "name": "Guizhou",
+        "value": 18
+      },
+      {
+        "name": "Jilin",
+        "value": 18
+      },
+      {
+        "name": "Hainan",
+        "value": 14
+      },
+      {
+        "name": "Xinjiang",
+        "value": 12
+      },
+      {
+        "name": "甘肃省",
+        "value": 11
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 8
+      },
+      {
+        "name": "Tibet",
+        "value": 4
+      },
+      {
+        "name": "Qinghai",
+        "value": 3
+      },
+      {
+        "name": "Ningxia",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "year": "2014",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 4145
+      },
+      {
+        "name": "Shang Hai",
+        "value": 2770
+      },
+      {
+        "name": "Guangdong",
+        "value": 2050
+      },
+      {
+        "name": "Zhejiang",
+        "value": 1395
+      },
+      {
+        "name": "Jiangsu",
+        "value": 596
+      },
+      {
+        "name": "Sichuan",
+        "value": 569
+      },
+      {
+        "name": "Hubei",
+        "value": 258
+      },
+      {
+        "name": "Shaanxi",
+        "value": 199
+      },
+      {
+        "name": "Fujian",
+        "value": 192
+      },
+      {
+        "name": "Shandong",
+        "value": 133
+      },
+      {
+        "name": "Liaoning",
+        "value": 117
+      },
+      {
+        "name": "Hunan",
+        "value": 112
+      },
+      {
+        "name": "Chongqing",
+        "value": 108
+      },
+      {
+        "name": "Tianjin",
+        "value": 86
+      },
+      {
+        "name": "Anhui",
+        "value": 85
+      },
+      {
+        "name": "Henan",
+        "value": 65
+      },
+      {
+        "name": "Taiwan",
+        "value": 65
+      },
+      {
+        "name": "Yunnan",
+        "value": 33
+      },
+      {
+        "name": "Hebei",
+        "value": 27
+      },
+      {
+        "name": "Guangxi",
+        "value": 26
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 19
+      },
+      {
+        "name": "Jiangxi",
+        "value": 18
+      },
+      {
+        "name": "Shanxi",
+        "value": 16
+      },
+      {
+        "name": "Guizhou",
+        "value": 13
+      },
+      {
+        "name": "Jilin",
+        "value": 13
+      },
+      {
+        "name": "Hainan",
+        "value": 12
+      },
+      {
+        "name": "甘肃省",
+        "value": 9
+      },
+      {
+        "name": "Xinjiang",
+        "value": 8
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 6
+      },
+      {
+        "name": "Tibet",
+        "value": 4
+      },
+      {
+        "name": "Qinghai",
+        "value": 2
+      },
+      {
+        "name": "Ningxia",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "year": "2013",
+    "data": [
+      {
+        "name": "Beijing",
+        "value": 2783
+      },
+      {
+        "name": "Shang Hai",
+        "value": 1856
+      },
+      {
+        "name": "Guangdong",
+        "value": 1326
+      },
+      {
+        "name": "Zhejiang",
+        "value": 899
+      },
+      {
+        "name": "Jiangsu",
+        "value": 398
+      },
+      {
+        "name": "Sichuan",
+        "value": 323
+      },
+      {
+        "name": "Hubei",
+        "value": 143
+      },
+      {
+        "name": "Fujian",
+        "value": 124
+      },
+      {
+        "name": "Shaanxi",
+        "value": 120
+      },
+      {
+        "name": "Shandong",
+        "value": 101
+      },
+      {
+        "name": "Hunan",
+        "value": 74
+      },
+      {
+        "name": "Chongqing",
+        "value": 73
+      },
+      {
+        "name": "Liaoning",
+        "value": 68
+      },
+      {
+        "name": "Anhui",
+        "value": 49
+      },
+      {
+        "name": "Tianjin",
+        "value": 48
+      },
+      {
+        "name": "Henan",
+        "value": 43
+      },
+      {
+        "name": "Taiwan",
+        "value": 40
+      },
+      {
+        "name": "Yunnan",
+        "value": 23
+      },
+      {
+        "name": "Hebei",
+        "value": 20
+      },
+      {
+        "name": "Guangxi",
+        "value": 18
+      },
+      {
+        "name": "Heilongjiang",
+        "value": 14
+      },
+      {
+        "name": "Jiangxi",
+        "value": 13
+      },
+      {
+        "name": "Shanxi",
+        "value": 10
+      },
+      {
+        "name": "Guizhou",
+        "value": 8
+      },
+      {
+        "name": "Hainan",
+        "value": 6
+      },
+      {
+        "name": "Inner Mongolia",
+        "value": 6
+      },
+      {
+        "name": "Xinjiang",
+        "value": 5
+      },
+      {
+        "name": "Jilin",
+        "value": 3
+      },
+      {
+        "name": "Tibet",
+        "value": 3
+      },
+      {
+        "name": "甘肃省",
+        "value": 2
+      },
+      {
+        "name": "Qinghai",
+        "value": 2
+      },
+      {
+        "name": "Ningxia",
+        "value": 1
+      }
+    ]
+  }
+]
