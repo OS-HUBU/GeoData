@@ -8,7 +8,7 @@
 
 ## Demonstration video
 
-**The demonstration video is now access on Youtube: https://www.youtube.com/watch?v=5Rn5fRGny8c**
+**The demonstration video is now accessible on Youtube: https://www.youtube.com/watch?v=5Rn5fRGny8c**
 
 ## Data file introduction
 
